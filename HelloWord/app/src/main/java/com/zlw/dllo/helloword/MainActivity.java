@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
 
 
         // 功能1 开始敲代码 啪啪啪拍照
+        // 功能1 完成
     }
 }
